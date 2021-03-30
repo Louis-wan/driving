@@ -10,4 +10,6 @@ elif country == 'American':
 	if age >= 16: 
 		print('你可以考駕照')
 	else: 
-		print('not')	
+		print('not')
+else:
+	print('only taiwan/ American')	
